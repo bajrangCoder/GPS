@@ -44,7 +44,7 @@ requirements = python3,kivy,pillow,android,plyer,pysegment
 #icon.filename = %(source.dir)s/ui/RD_pass_logo_extra_small.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
-orientation = all
+#orientation = all
 
 # (list) List of service to declare
 #services = NAME:ENTRYPOINT_TO_PY,NAME2:ENTRYPOINT2_TO_PY
